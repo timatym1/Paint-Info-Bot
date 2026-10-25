@@ -139,13 +139,6 @@ This project demonstrates how to build a practical AI support bot for a local bu
 - Real-world support workflows
 - Safe customer communication patterns
 
-## 📷 Screenshots / marketing block
-
-> Add a real screenshot or a product video here to showcase the bot in action.
->
-> Example structure:
->
-> ![Paint-Info-Bot demo](https://images.unsplash.com/...)
 
 ## 🧾 License
 
